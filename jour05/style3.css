@@ -1,0 +1,36 @@
+body {
+    background-color: #f9f9f9;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+h1 {
+    color: #990099;
+}
+
+form {
+    background-color: #fff;
+    padding: 30px;
+    border: 2px solid #990099;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    color: #333;
+    font-weight: bold;
+}
+
+select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #990099;
+}
+
+input[type="submit"] {
+    background-color: #990099;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
